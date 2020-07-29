@@ -2,4 +2,3 @@ This is my first commit
 
 This is 2nd line of change
 
-This is 3rd line of change after creating Second File
